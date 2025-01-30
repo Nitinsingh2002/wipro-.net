@@ -1,0 +1,14 @@
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\bin\Debug\net8.0\Method Arguments.exe
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\bin\Debug\net8.0\Method Arguments.deps.json
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\bin\Debug\net8.0\Method Arguments.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\bin\Debug\net8.0\Method Arguments.dll
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\bin\Debug\net8.0\Method Arguments.pdb
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\obj\Debug\net8.0\Method Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\obj\Debug\net8.0\Method Arguments.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\obj\Debug\net8.0\Method Arguments.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\obj\Debug\net8.0\Method Arguments.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\obj\Debug\net8.0\Method Arguments.dll
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\obj\Debug\net8.0\refint\Method Arguments.dll
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\obj\Debug\net8.0\Method Arguments.pdb
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\obj\Debug\net8.0\Method Arguments.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\Method Arguments\obj\Debug\net8.0\ref\Method Arguments.dll

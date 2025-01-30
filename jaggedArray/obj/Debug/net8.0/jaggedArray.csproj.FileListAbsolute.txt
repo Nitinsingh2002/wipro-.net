@@ -1,0 +1,14 @@
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\bin\Debug\net8.0\jaggedArray.exe
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\bin\Debug\net8.0\jaggedArray.deps.json
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\bin\Debug\net8.0\jaggedArray.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\bin\Debug\net8.0\jaggedArray.dll
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\bin\Debug\net8.0\jaggedArray.pdb
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\obj\Debug\net8.0\jaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\obj\Debug\net8.0\jaggedArray.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\obj\Debug\net8.0\jaggedArray.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\obj\Debug\net8.0\jaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\obj\Debug\net8.0\jaggedArray.dll
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\obj\Debug\net8.0\refint\jaggedArray.dll
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\obj\Debug\net8.0\jaggedArray.pdb
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\obj\Debug\net8.0\jaggedArray.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\jaggedArray\obj\Debug\net8.0\ref\jaggedArray.dll

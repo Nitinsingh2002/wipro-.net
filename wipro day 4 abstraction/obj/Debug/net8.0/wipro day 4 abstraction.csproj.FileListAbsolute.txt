@@ -1,0 +1,14 @@
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\bin\Debug\net8.0\wipro day 4 abstraction.exe
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\bin\Debug\net8.0\wipro day 4 abstraction.deps.json
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\bin\Debug\net8.0\wipro day 4 abstraction.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\bin\Debug\net8.0\wipro day 4 abstraction.dll
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\bin\Debug\net8.0\wipro day 4 abstraction.pdb
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\obj\Debug\net8.0\wipro day 4 abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\obj\Debug\net8.0\wipro day 4 abstraction.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\obj\Debug\net8.0\wipro day 4 abstraction.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\obj\Debug\net8.0\wipro day 4 abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\obj\Debug\net8.0\wipro day 4 abstraction.dll
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\obj\Debug\net8.0\refint\wipro day 4 abstraction.dll
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\obj\Debug\net8.0\wipro day 4 abstraction.pdb
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\obj\Debug\net8.0\wipro day 4 abstraction.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 abstraction\obj\Debug\net8.0\ref\wipro day 4 abstraction.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "wipro day 4 oops/1.0.0": {
+        "runtime": {
+          "wipro day 4 oops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wipro day 4 oops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\bin\Debug\net8.0\wipro day 4 oops.exe
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\bin\Debug\net8.0\wipro day 4 oops.deps.json
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\bin\Debug\net8.0\wipro day 4 oops.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\bin\Debug\net8.0\wipro day 4 oops.dll
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\bin\Debug\net8.0\wipro day 4 oops.pdb
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\obj\Debug\net8.0\wipro day 4 oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\obj\Debug\net8.0\wipro day 4 oops.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\obj\Debug\net8.0\wipro day 4 oops.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\obj\Debug\net8.0\wipro day 4 oops.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\obj\Debug\net8.0\wipro day 4 oops.dll
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\obj\Debug\net8.0\refint\wipro day 4 oops.dll
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\obj\Debug\net8.0\wipro day 4 oops.pdb
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\obj\Debug\net8.0\wipro day 4 oops.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\wipro day 4 oops\obj\Debug\net8.0\ref\wipro day 4 oops.dll

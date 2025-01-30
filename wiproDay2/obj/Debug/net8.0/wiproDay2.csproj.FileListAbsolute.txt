@@ -1,0 +1,14 @@
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\bin\Debug\net8.0\wiproDay2.exe
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\bin\Debug\net8.0\wiproDay2.deps.json
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\bin\Debug\net8.0\wiproDay2.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\bin\Debug\net8.0\wiproDay2.dll
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\bin\Debug\net8.0\wiproDay2.pdb
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\obj\Debug\net8.0\wiproDay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\obj\Debug\net8.0\wiproDay2.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\obj\Debug\net8.0\wiproDay2.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\obj\Debug\net8.0\wiproDay2.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\obj\Debug\net8.0\wiproDay2.dll
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\obj\Debug\net8.0\refint\wiproDay2.dll
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\obj\Debug\net8.0\wiproDay2.pdb
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\obj\Debug\net8.0\wiproDay2.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\wiproDay2\obj\Debug\net8.0\ref\wiproDay2.dll

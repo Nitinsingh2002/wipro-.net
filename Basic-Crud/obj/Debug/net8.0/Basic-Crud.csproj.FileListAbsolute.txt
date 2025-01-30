@@ -1,0 +1,14 @@
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\bin\Debug\net8.0\Basic-Crud.exe
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\bin\Debug\net8.0\Basic-Crud.deps.json
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\bin\Debug\net8.0\Basic-Crud.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\bin\Debug\net8.0\Basic-Crud.dll
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\bin\Debug\net8.0\Basic-Crud.pdb
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\obj\Debug\net8.0\Basic-Crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\obj\Debug\net8.0\Basic-Crud.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\obj\Debug\net8.0\Basic-Crud.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\obj\Debug\net8.0\Basic-Crud.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\obj\Debug\net8.0\Basic-Crud.dll
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\obj\Debug\net8.0\refint\Basic-Crud.dll
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\obj\Debug\net8.0\Basic-Crud.pdb
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\obj\Debug\net8.0\Basic-Crud.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\Basic-Crud\obj\Debug\net8.0\ref\Basic-Crud.dll
