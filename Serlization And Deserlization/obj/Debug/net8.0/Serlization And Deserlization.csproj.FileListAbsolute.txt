@@ -1,0 +1,18 @@
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\bin\Debug\net8.0\Serlization And Deserlization.exe
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\bin\Debug\net8.0\Serlization And Deserlization.deps.json
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\bin\Debug\net8.0\Serlization And Deserlization.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\bin\Debug\net8.0\Serlization And Deserlization.dll
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\bin\Debug\net8.0\Serlization And Deserlization.pdb
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\Serlization And Deserlization.csproj.AssemblyReference.cache
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\Serlization And Deserlization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\Serlization And Deserlization.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\Serlization And Deserlization.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\Serlization And Deserlization.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\Serlization And Deserlization.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\Serlizat.29D047E7.Up2Date
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\Serlization And Deserlization.dll
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\refint\Serlization And Deserlization.dll
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\Serlization And Deserlization.pdb
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\Serlization And Deserlization.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\Serlization And Deserlization\obj\Debug\net8.0\ref\Serlization And Deserlization.dll

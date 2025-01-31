@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\bin\Debug\net8.0\wiproo day 5 (exception handling).exe
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\bin\Debug\net8.0\wiproo day 5 (exception handling).deps.json
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\bin\Debug\net8.0\wiproo day 5 (exception handling).runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\bin\Debug\net8.0\wiproo day 5 (exception handling).dll
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\bin\Debug\net8.0\wiproo day 5 (exception handling).pdb
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\obj\Debug\net8.0\wiproo day 5 (exception handling).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\obj\Debug\net8.0\wiproo day 5 (exception handling).AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\obj\Debug\net8.0\wiproo day 5 (exception handling).AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\obj\Debug\net8.0\wiproo day 5 (exception handling).csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\obj\Debug\net8.0\wiproo day 5 (exception handling).sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\obj\Debug\net8.0\wiproo day 5 (exception handling).dll
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\obj\Debug\net8.0\refint\wiproo day 5 (exception handling).dll
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\obj\Debug\net8.0\wiproo day 5 (exception handling).pdb
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\obj\Debug\net8.0\wiproo day 5 (exception handling).genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\wiproo day 5 (exception handling)\obj\Debug\net8.0\ref\wiproo day 5 (exception handling).dll
