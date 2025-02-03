@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\Yield\bin\Debug\net8.0\Yield.exe
+C:\Users\Nitin kumar singh\source\repos\Yield\bin\Debug\net8.0\Yield.deps.json
+C:\Users\Nitin kumar singh\source\repos\Yield\bin\Debug\net8.0\Yield.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\Yield\bin\Debug\net8.0\Yield.dll
+C:\Users\Nitin kumar singh\source\repos\Yield\bin\Debug\net8.0\Yield.pdb
+C:\Users\Nitin kumar singh\source\repos\Yield\obj\Debug\net8.0\Yield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\Yield\obj\Debug\net8.0\Yield.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Yield\obj\Debug\net8.0\Yield.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\Yield\obj\Debug\net8.0\Yield.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Yield\obj\Debug\net8.0\Yield.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\Yield\obj\Debug\net8.0\Yield.dll
+C:\Users\Nitin kumar singh\source\repos\Yield\obj\Debug\net8.0\refint\Yield.dll
+C:\Users\Nitin kumar singh\source\repos\Yield\obj\Debug\net8.0\Yield.pdb
+C:\Users\Nitin kumar singh\source\repos\Yield\obj\Debug\net8.0\Yield.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\Yield\obj\Debug\net8.0\ref\Yield.dll

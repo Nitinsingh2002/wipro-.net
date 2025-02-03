@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\bin\Debug\net8.0\MultiCaste delegate.exe
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\bin\Debug\net8.0\MultiCaste delegate.deps.json
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\bin\Debug\net8.0\MultiCaste delegate.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\bin\Debug\net8.0\MultiCaste delegate.dll
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\bin\Debug\net8.0\MultiCaste delegate.pdb
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\obj\Debug\net8.0\MultiCaste delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\obj\Debug\net8.0\MultiCaste delegate.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\obj\Debug\net8.0\MultiCaste delegate.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\obj\Debug\net8.0\MultiCaste delegate.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\obj\Debug\net8.0\MultiCaste delegate.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\obj\Debug\net8.0\MultiCaste delegate.dll
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\obj\Debug\net8.0\refint\MultiCaste delegate.dll
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\obj\Debug\net8.0\MultiCaste delegate.pdb
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\obj\Debug\net8.0\MultiCaste delegate.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\MultiCaste delegate\obj\Debug\net8.0\ref\MultiCaste delegate.dll

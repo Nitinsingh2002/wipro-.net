@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\bin\Debug\net8.0\Assignment delegate.exe
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\bin\Debug\net8.0\Assignment delegate.deps.json
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\bin\Debug\net8.0\Assignment delegate.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\bin\Debug\net8.0\Assignment delegate.dll
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\bin\Debug\net8.0\Assignment delegate.pdb
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\obj\Debug\net8.0\Assignment delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\obj\Debug\net8.0\Assignment delegate.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\obj\Debug\net8.0\Assignment delegate.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\obj\Debug\net8.0\Assignment delegate.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\obj\Debug\net8.0\Assignment delegate.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\obj\Debug\net8.0\Assignment delegate.dll
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\obj\Debug\net8.0\refint\Assignment delegate.dll
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\obj\Debug\net8.0\Assignment delegate.pdb
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\obj\Debug\net8.0\Assignment delegate.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\Assignment delegate\obj\Debug\net8.0\ref\Assignment delegate.dll

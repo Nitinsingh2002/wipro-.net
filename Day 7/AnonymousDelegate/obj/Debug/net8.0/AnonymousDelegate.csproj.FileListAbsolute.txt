@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\bin\Debug\net8.0\AnonymousDelegate.exe
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\bin\Debug\net8.0\AnonymousDelegate.deps.json
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\bin\Debug\net8.0\AnonymousDelegate.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\bin\Debug\net8.0\AnonymousDelegate.dll
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\bin\Debug\net8.0\AnonymousDelegate.pdb
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\obj\Debug\net8.0\AnonymousDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\obj\Debug\net8.0\AnonymousDelegate.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\obj\Debug\net8.0\AnonymousDelegate.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\obj\Debug\net8.0\AnonymousDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\obj\Debug\net8.0\AnonymousDelegate.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\obj\Debug\net8.0\AnonymousDelegate.dll
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\obj\Debug\net8.0\refint\AnonymousDelegate.dll
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\obj\Debug\net8.0\AnonymousDelegate.pdb
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\obj\Debug\net8.0\AnonymousDelegate.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\AnonymousDelegate\obj\Debug\net8.0\ref\AnonymousDelegate.dll

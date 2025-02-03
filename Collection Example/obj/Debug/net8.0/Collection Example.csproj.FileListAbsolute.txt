@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\Collection Example\bin\Debug\net8.0\Collection Example.exe
+C:\Users\Nitin kumar singh\source\repos\Collection Example\bin\Debug\net8.0\Collection Example.deps.json
+C:\Users\Nitin kumar singh\source\repos\Collection Example\bin\Debug\net8.0\Collection Example.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\Collection Example\bin\Debug\net8.0\Collection Example.dll
+C:\Users\Nitin kumar singh\source\repos\Collection Example\bin\Debug\net8.0\Collection Example.pdb
+C:\Users\Nitin kumar singh\source\repos\Collection Example\obj\Debug\net8.0\Collection Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\Collection Example\obj\Debug\net8.0\Collection Example.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Collection Example\obj\Debug\net8.0\Collection Example.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\Collection Example\obj\Debug\net8.0\Collection Example.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Collection Example\obj\Debug\net8.0\Collection Example.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\Collection Example\obj\Debug\net8.0\Collection Example.dll
+C:\Users\Nitin kumar singh\source\repos\Collection Example\obj\Debug\net8.0\refint\Collection Example.dll
+C:\Users\Nitin kumar singh\source\repos\Collection Example\obj\Debug\net8.0\Collection Example.pdb
+C:\Users\Nitin kumar singh\source\repos\Collection Example\obj\Debug\net8.0\Collection Example.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\Collection Example\obj\Debug\net8.0\ref\Collection Example.dll

@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.exe
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.deps.json
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.dll
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.pdb
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.dll
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\obj\Debug\net8.0\refint\ExtensionMethod.dll
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.pdb
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\ExtensionMethod\obj\Debug\net8.0\ref\ExtensionMethod.dll

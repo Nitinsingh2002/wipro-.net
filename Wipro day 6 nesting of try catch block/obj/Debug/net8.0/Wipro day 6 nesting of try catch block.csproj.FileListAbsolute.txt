@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\bin\Debug\net8.0\Wipro day 6 nesting of try catch block.exe
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\bin\Debug\net8.0\Wipro day 6 nesting of try catch block.deps.json
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\bin\Debug\net8.0\Wipro day 6 nesting of try catch block.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\bin\Debug\net8.0\Wipro day 6 nesting of try catch block.dll
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\bin\Debug\net8.0\Wipro day 6 nesting of try catch block.pdb
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\obj\Debug\net8.0\Wipro day 6 nesting of try catch block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\obj\Debug\net8.0\Wipro day 6 nesting of try catch block.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\obj\Debug\net8.0\Wipro day 6 nesting of try catch block.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\obj\Debug\net8.0\Wipro day 6 nesting of try catch block.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\obj\Debug\net8.0\Wipro day 6 nesting of try catch block.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\obj\Debug\net8.0\Wipro day 6 nesting of try catch block.dll
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\obj\Debug\net8.0\refint\Wipro day 6 nesting of try catch block.dll
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\obj\Debug\net8.0\Wipro day 6 nesting of try catch block.pdb
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\obj\Debug\net8.0\Wipro day 6 nesting of try catch block.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\Wipro day 6 nesting of try catch block\obj\Debug\net8.0\ref\Wipro day 6 nesting of try catch block.dll

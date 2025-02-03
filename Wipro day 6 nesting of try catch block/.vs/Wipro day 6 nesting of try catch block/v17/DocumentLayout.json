@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nitin kumar singh\\source\\repos\\Wipro day 6 nesting of try catch block\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9547427A-3164-4ECA-B7C8-16C02E98DA66}|..\\PartialClass\\PartialClass.csproj|c:\\users\\nitin kumar singh\\source\\repos\\partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F9C877-E47A-447B-8DF0-7EEDDA3A9F84}|Wipro day 6 nesting of try catch block.csproj|c:\\users\\nitin kumar singh\\source\\repos\\wipro day 6 nesting of try catch block\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F9C877-E47A-447B-8DF0-7EEDDA3A9F84}|Wipro day 6 nesting of try catch block.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin kumar singh\\source\\repos\\PartialClass\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PartialClass\\Program.cs",
+              "ToolTip": "C:\\Users\\Nitin kumar singh\\source\\repos\\PartialClass\\Program.cs",
+              "RelativeToolTip": "..\\PartialClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T06:30:28.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin kumar singh\\source\\repos\\Wipro day 6 nesting of try catch block\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nitin kumar singh\\source\\repos\\Wipro day 6 nesting of try catch block\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:53:14.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
