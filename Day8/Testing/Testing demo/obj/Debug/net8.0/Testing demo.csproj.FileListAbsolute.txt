@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\Testing demo\bin\Debug\net8.0\Testing demo.exe
+C:\Users\Nitin kumar singh\source\repos\Testing demo\bin\Debug\net8.0\Testing demo.deps.json
+C:\Users\Nitin kumar singh\source\repos\Testing demo\bin\Debug\net8.0\Testing demo.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\Testing demo\bin\Debug\net8.0\Testing demo.dll
+C:\Users\Nitin kumar singh\source\repos\Testing demo\bin\Debug\net8.0\Testing demo.pdb
+C:\Users\Nitin kumar singh\source\repos\Testing demo\obj\Debug\net8.0\Testing demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\Testing demo\obj\Debug\net8.0\Testing demo.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Testing demo\obj\Debug\net8.0\Testing demo.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\Testing demo\obj\Debug\net8.0\Testing demo.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\Testing demo\obj\Debug\net8.0\Testing demo.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\Testing demo\obj\Debug\net8.0\Testing demo.dll
+C:\Users\Nitin kumar singh\source\repos\Testing demo\obj\Debug\net8.0\refint\Testing demo.dll
+C:\Users\Nitin kumar singh\source\repos\Testing demo\obj\Debug\net8.0\Testing demo.pdb
+C:\Users\Nitin kumar singh\source\repos\Testing demo\obj\Debug\net8.0\Testing demo.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\Testing demo\obj\Debug\net8.0\ref\Testing demo.dll
