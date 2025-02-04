@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\bin\Debug\net8.0\ContraVarriance.exe
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\bin\Debug\net8.0\ContraVarriance.deps.json
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\bin\Debug\net8.0\ContraVarriance.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\bin\Debug\net8.0\ContraVarriance.dll
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\bin\Debug\net8.0\ContraVarriance.pdb
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\obj\Debug\net8.0\ContraVarriance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\obj\Debug\net8.0\ContraVarriance.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\obj\Debug\net8.0\ContraVarriance.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\obj\Debug\net8.0\ContraVarriance.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\obj\Debug\net8.0\ContraVarriance.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\obj\Debug\net8.0\ContraVarriance.dll
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\obj\Debug\net8.0\refint\ContraVarriance.dll
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\obj\Debug\net8.0\ContraVarriance.pdb
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\obj\Debug\net8.0\ContraVarriance.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\ContraVarriance\obj\Debug\net8.0\ref\ContraVarriance.dll

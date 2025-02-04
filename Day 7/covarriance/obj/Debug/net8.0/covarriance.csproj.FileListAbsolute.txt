@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\covarriance\bin\Debug\net8.0\covarriance.exe
+C:\Users\Nitin kumar singh\source\repos\covarriance\bin\Debug\net8.0\covarriance.deps.json
+C:\Users\Nitin kumar singh\source\repos\covarriance\bin\Debug\net8.0\covarriance.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\covarriance\bin\Debug\net8.0\covarriance.dll
+C:\Users\Nitin kumar singh\source\repos\covarriance\bin\Debug\net8.0\covarriance.pdb
+C:\Users\Nitin kumar singh\source\repos\covarriance\obj\Debug\net8.0\covarriance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\covarriance\obj\Debug\net8.0\covarriance.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\covarriance\obj\Debug\net8.0\covarriance.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\covarriance\obj\Debug\net8.0\covarriance.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\covarriance\obj\Debug\net8.0\covarriance.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\covarriance\obj\Debug\net8.0\covarriance.dll
+C:\Users\Nitin kumar singh\source\repos\covarriance\obj\Debug\net8.0\refint\covarriance.dll
+C:\Users\Nitin kumar singh\source\repos\covarriance\obj\Debug\net8.0\covarriance.pdb
+C:\Users\Nitin kumar singh\source\repos\covarriance\obj\Debug\net8.0\covarriance.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\covarriance\obj\Debug\net8.0\ref\covarriance.dll
