@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nitin kumar singh\\source\\repos\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF22F-D815-4B80-86C9-20AF41981C1F}|..\\TTestAryan\\TTestAryan.csproj|c:\\users\\nitin kumar singh\\source\\repos\\ttestaryan\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9A6898-5A03-4078-95B2-39A9A5D00791}|..\\CAssignment2\\CAssignment2.csproj|c:\\users\\nitin kumar singh\\source\\repos\\cassignment2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF22F-D815-4B80-86C9-20AF41981C1F}|..\\TTestAryan\\TTestAryan.csproj|c:\\users\\nitin kumar singh\\source\\repos\\ttestaryan\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5EA22E-469B-45D8-8E09-C7693CEC2CD1}|Assignment2.csproj|c:\\users\\nitin kumar singh\\source\\repos\\assignment2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5EA22E-469B-45D8-8E09-C7693CEC2CD1}|Assignment2.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin kumar singh\\source\\repos\\Assignment2\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\Nitin kumar singh\\source\\repos\\Assignment2\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:42:57.879Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin kumar singh\\source\\repos\\TTestAryan\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\TTestAryan\\Test1.cs",
+              "ToolTip": "C:\\Users\\Nitin kumar singh\\source\\repos\\TTestAryan\\Test1.cs*",
+              "RelativeToolTip": "..\\TTestAryan\\Test1.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:19:32.181Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin kumar singh\\source\\repos\\TTestAryan\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\TTestAryan\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Nitin kumar singh\\source\\repos\\TTestAryan\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\TTestAryan\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:19:28.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin kumar singh\\source\\repos\\CAssignment2\\Library.cs",
+              "RelativeDocumentMoniker": "..\\CAssignment2\\Library.cs",
+              "ToolTip": "C:\\Users\\Nitin kumar singh\\source\\repos\\CAssignment2\\Library.cs",
+              "RelativeToolTip": "..\\CAssignment2\\Library.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:17:56.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PartialClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d703fafba63dc147cbb0f76be86aafc24a473481")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+411d8a37c8b6c2d5f90d5993b4363b865ce1da4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PartialClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PartialClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
