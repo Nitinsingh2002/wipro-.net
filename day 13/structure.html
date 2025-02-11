@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        <div>
+            <label for="emp_name"></label>
+            <br>
+            <input type="text" placeholder="Enter your name" id="emp_name" form="emp_name" />
+        </div>
+
+        <div>
+            <label>Select your gender:</label><br>
+            <input type="radio" name="gender" id="male" value="Male">
+            <label for="male">Male</label>
+
+            <input type="radio" name="gender" id="female" value="Female">
+            <label for="female">Female</label>
+        </div>
+
+        <!-- Dropdown -->
+         <!-- for in lable is used to make relationship betwwen input tag so 
+          lablel for is match with id of select and name is to what value assign to select   -->
+        <div>
+             <label for="course">Select your course:</label>
+             <select name="course" id="course">
+                <option value="hindi">Hindi</option>
+                <option value="english">english</option>
+             </select>
+        </div>
+
+        <!-- checkbox -->
+        <div>
+            <label for="sports">Select your favorite sports: </label><br>
+        
+            <input type="checkbox" value="cricket" id="cricket" name="sports[]"/>
+            <label for="cricket">Cricket</label>
+        
+            <input type="checkbox" value="volleyball" id="volleyball" name="sports[]"/>
+            <label for="volleyball">Volleyball</label>
+        </div>
+
+        <button type="submit">Submit</button>
+        
+
+    </form>
+</body>
+
+</html>

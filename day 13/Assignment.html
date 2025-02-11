@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Management - Sprint 2</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        .navbar { background-color: #f8f9fa; padding: 10px; display: flex; justify-content: space-between; align-items: center; }
+        .navbar a { text-decoration: none; color: #000; padding: 10px; }
+        .navbar a:hover { background-color: #ddd; }
+        .container { margin: 20px; }
+        #timetable-section { display: none; margin-top: 20px; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid black; padding: 10px; text-align: center; }
+        th { background-color: #333; color: white; }
+        .timetable-btn { cursor: pointer; padding: 10px; background-color: #007bff; color: white; border: none; }
+        .timetable-btn:hover { background-color: #0056b3; }
+    </style>
+</head>
+<body>
+    
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <div>Spring Flowers School</div>
+        <div>
+            <a href="#">Home</a>
+            <a href="#">Profile</a>
+            <a href="timetable-section" id="timetable-btn" class="timetable-btn">TimeTable</a>
+        </div>
+    </div>
+    
+    <!-- TimeTable Section -->
+    <div id="timetable-section" class="container">
+        <h2 class="text-center">Student Time Table</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Day</th>
+                    <th>9:00 AM - 10:00 AM</th>
+                    <th>10:00 AM - 11:00 AM</th>
+                    <th>11:00 AM - 12:00 PM</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Monday</td>
+                    <td>Math</td>
+                    <td>Science</td>
+                    <td>English</td>
+                </tr>
+                <tr>
+                    <td>Tuesday</td>
+                    <td>History</td>
+                    <td>Geography</td>
+                    <td>Physics</td>
+                </tr>
+                <tr>
+                    <td>Wedneshday</td>
+                    <td>Math</td>
+                    <td>Science</td>
+                    <td>English</td>
+                </tr
+                <tr>
+                    <td>Thursday</td>
+                    <td>Math</td>
+                    <td>Science</td>
+                    <td>English</td>
+                </tr
+                <tr>
+                    <td>Friday</td>
+                    <td>Math</td>
+                    <td>Science</td>
+                    <td>English</td>
+                </tr
+                <tr>
+                    <td>saturday</td>
+                    <td>Math</td>
+                    <td>Science</td>
+                    <td>English</td>
+                </tr
+            </tbody>
+        </table>
+    </div>
+    
+    <!-- JavaScript to Show/Hide TimeTable -->
+    <script>
+      document.getElementById("timetable-btn").addEventListener("click", function(event) {
+    event.preventDefault(); // Prevents page reload
+    let section = document.getElementById("timetable-section");
+    section.style.display = section.style.display === "none" ? "block" : "none";
+});
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="nav">
+    <h3>Spring Flowers School</h3>
+    <div class="homeTime">
+        <div id="home-btn"><p>Home</p></div>
+        <div id="timetable-btn"><p>Timetable</p></div>
+    </div>
+</div>
+
+<div class="Home" id="homeSection">
+    <p class="home_p">Welcome to Spring Flowers School Homepage</p>
+</div>
+
+<div class="timeTable" id="timeTable" style="display: none;">
+    <h2 class="para1">Student Time Table</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th>9:00 AM - 10:00 AM</th>
+                <th>10:00 AM - 11:00 AM</th>
+                <th>11:00 AM - 12:00 PM</th> 
+                <th>1:00 PM - 2:00 PM</th>
+                <th>2:00 PM - 3:00 PM</th>
+                <th>3:00 PM - 4:00 PM</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Monday</td>
+                <td>Math</td>
+                <td>Science</td>
+                <td>English</td>
+                <td>History</td>
+                <td>Geography</td>
+                <td>Physics</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>Computer Science</td>
+                <td>Math</td>
+                <td>Biology</td>
+                <td>Chemistry</td>
+                <td>Physical Education</td>
+                <td>English</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>History</td>
+                <td>Science</td>
+                <td>Math</td>
+                <td>Physics</td>
+                <td>English</td>
+                <td>Geography</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td>Biology</td>
+                <td>Math</td>
+                <td>History</td>
+                <td>English</td>
+                <td>Chemistry</td>
+                <td>Computer Science</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td>Geography</td>
+                <td>Physics</td>
+                <td>English</td>
+                <td>Math</td>
+                <td>Science</td>
+                <td>Physical Education</td>
+            </tr>
+            <tr>
+                <td>Saturday</td>
+                <td>Sports</td>
+                <td>Music</td>
+                <td>Arts</td>
+                <td>English</td>
+                <td>Math</td>
+                <td>Science</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<script>
+    document.getElementById("timetable-btn").addEventListener("click", function() {
+        document.getElementById("homeSection").style.display = "none";
+        document.getElementById("timeTable").style.display = "block";
+    });
+
+    document.getElementById("home-btn").addEventListener("click", function() {
+        document.getElementById("homeSection").style.display = "block";
+        document.getElementById("timeTable").style.display = "none";
+    });
+</script>
+
+</body>
+</html>

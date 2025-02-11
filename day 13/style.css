@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(43, 208, 226);
+    padding: 10px 20px;
+    font-size: large;
+    color: white;
+}
+
+.para1 {
+    text-align: start !important;
+}
+
+.homeTime {
+    display: flex;
+    gap: 2rem;
+    cursor: pointer;
+}
+
+th {
+    background-color: rgb(43, 208, 226);
+    color: white;
+}
+
+.timeTable {
+    width: 100%;
+    margin: auto;
+   
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px 20px;
+    text-align: start;
+}
+.para1{
+    margin-top: 25px;
+   text-align: center;
+}
+
+.Home{
+    height: 90vh;
+    width: 100%;
+    margin-top: 40px;
+    font-size: x-large;
+    color: white;
+    text-align: center;
+}
+
+.home_p{
+    padding: 25px;
+    background-color: rgb(255, 127, 221);
+}

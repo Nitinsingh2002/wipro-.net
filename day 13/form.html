@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="form.css" />
+</head>
+
+<body>
+    <div class="conatiner">
+        <form>
+            <div class="mx">
+                <label for="name" class="label">Name</label>
+                <input type="text" name="name" id="name" class="input">
+            </div>
+            <div class="mx">
+                <label for="email" class="label">Email</label>
+                <input type="email" name="email" id="email"  class="input">
+            </div>
+
+            <div class="mx">
+                <label for="password" class="label" class="label">password</label>
+                <input type="password" name="password" id="password" class="input" />
+            </div>
+
+
+            <div class="mx">
+                <label for="dateOfbirth" class="label2">Enter your date of birth</label>
+                <input type="date" name="dob" id="dateOfbirth" class="input">
+            </div>
+
+            <div class="mx">
+                <label for="state" style="color: rgb(138, 138, 138);">Select your state</label>
+                <select name="state" id="state" class="input">
+                    <option value="bihar" class="input">Bihar</option>
+                    <option value="tamilnadu" class="input">Tamilnadu</option>
+                    <option value="Telangana" class="input">Telangana</option>
+                </select>
+            </div>
+
+            <div class="my mx">
+                <label for="gender" class="label2">Choose your gender:</label>
+                <span >
+                    <input type="radio" name="gender" id="male" value="male">
+                    <label for="male" class="color">Male</label>
+                    
+                  
+
+                    <input type="radio" name="gender" id="female" value="female">
+                    <label for="female" class="color">Female</label>
+                    
+                   
+                </span>
+
+            </div>
+
+
+            <div class="mx my">
+                <Label class="label2">Mark your Hobbies :</Label>
+                <div >
+                    <input type="checkbox" name="cricket" id="cricket" value="cricket">
+                    <label for="cricket" class="color">Cricket</label>
+                
+
+                    <input type="checkbox" name="football" id="football" value="football">
+                    <label for="football" class="color">Football</label>
+                 
+
+                    <input type="checkbox" name="Hockey" id="Hockey" value="Hockey">
+                    <label for="Hockey" class="color">Hockey</label>
+                   
+
+                </div>
+            </div>
+
+
+           <button class="btn">SUBMIT</button>
+        </form>
+    </div>
+</body>
+
+</html>

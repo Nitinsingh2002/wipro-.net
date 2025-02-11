@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Demo</title>
+
+    <style>
+        table, td, th {
+            border: 2px solid rgb(142, 139, 139);
+            border-collapse: collapse;
+            padding: 10px;
+            text-align: center;
+            margin: auto;
+        }
+
+        th {
+            background-color: rgb(190, 169, 246);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <table>
+        <thead>
+            <tr>
+                <th rowspan="2">Id</th>
+                <th rowspan="2">Name</th>
+                <th rowspan="2">Department</th>
+                <th rowspan="2">Salary</th>
+                <th colspan="2">Additional Info</th>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="background-color: rgb(249, 214, 237);">
+                <td>1</td>
+                <td>Akash</td>
+                <td>HR</td>
+                <td>100000</td>
+                <td>akash@example.com</td>
+                <td>Mumbai</td>
+            </tr>
+            <tr style="background-color: rgb(116, 248, 248);">
+                <td>2</td>
+                <td>Vikash</td>
+                <td>Developer</td>
+                <td>150000</td>
+                <td>vikash@example.com</td>
+                <td>Bangalore</td>
+            </tr>
+            <tr style="background-color:  rgb(249, 214, 237);">
+                <td rowspan="2">3</td>
+                <td rowspan="2">Rahul</td>
+                <td rowspan="2">Marketing</td>
+                <td rowspan="2">120000</td>
+                <td>rahul@example.com</td>
+                <td>Delhi</td>
+            </tr>
+            <tr style="background-color:  rgb(249, 214, 237);">
+                <td>rahul2@example.com</td>
+                <td>Kolkata</td>
+            </tr>
+            <tr style="background-color: rgb(116, 248, 248);">
+                <td>4</td>
+                <td>Sneha</td>
+                <td>Finance</td>
+                <td>135000</td>
+                <td>sneha@example.com</td>
+                <td>Hyderabad</td>
+            </tr>
+        </tbody>
+    </table>
+
+   <div style="text-align: center; font-size: medium;">
+   <button style="margin-top: 20px;">
+    <a href="./form.html">Form</a>
+   </button>
+   </div>
+</body>
+
+</html>
