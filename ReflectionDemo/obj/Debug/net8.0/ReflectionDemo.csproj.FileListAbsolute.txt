@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.exe
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.deps.json
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.dll
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.pdb
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.dll
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\obj\Debug\net8.0\refint\ReflectionDemo.dll
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.pdb
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\ReflectionDemo\obj\Debug\net8.0\ref\ReflectionDemo.dll

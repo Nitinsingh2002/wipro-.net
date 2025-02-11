@@ -1,0 +1,15 @@
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\bin\Debug\net8.0\PatternMatching.exe
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\bin\Debug\net8.0\PatternMatching.deps.json
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\bin\Debug\net8.0\PatternMatching.runtimeconfig.json
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\bin\Debug\net8.0\PatternMatching.dll
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\bin\Debug\net8.0\PatternMatching.pdb
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\obj\Debug\net8.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\obj\Debug\net8.0\PatternMatching.AssemblyInfoInputs.cache
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\obj\Debug\net8.0\PatternMatching.AssemblyInfo.cs
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\obj\Debug\net8.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\obj\Debug\net8.0\PatternMatching.sourcelink.json
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\obj\Debug\net8.0\PatternMatching.dll
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\obj\Debug\net8.0\refint\PatternMatching.dll
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\obj\Debug\net8.0\PatternMatching.pdb
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\obj\Debug\net8.0\PatternMatching.genruntimeconfig.cache
+C:\Users\Nitin kumar singh\source\repos\PatternMatching\obj\Debug\net8.0\ref\PatternMatching.dll
