@@ -1,0 +1,354 @@
+ Var-hoisting
+ Functional Score
+ Classes & Methods & Constructor
+ Maps
+ Iterators
+ Interfaces
+ Declartions and Annotations
+ Anytype
+ Enumeration
+ Decorator , Arrays & tuples
+
+ ****************************************************************
+  Var-hoisting
+  Hoisting is a JavaScript mechanism where variable and function declarations are moved to the top of their scope before the 
+  code executes.However, only declarations are hoisted, not initializations
+   
+   Example 1: Hoisting with var
+
+console.log(x); // Output: undefined
+var x = 10;
+console.log(x); // Output: 10
+What happens internally:
+
+
+var x; // Declaration is hoisted to the top
+console.log(x); // undefined (because it is declared but not assigned yet)
+x = 10; // Assignment happens here
+console.log(x); // 10
+
+************************************************************
+Function Hoisting vs. Variable Hoisting
+Functions declared using function are fully hoisted, meaning both their declaration and definition move to the top.
+
+Example 3: Function Hoisting
+javascript
+Copy
+Edit
+greet(); // Output: Hello!
+
+function greet() {
+    console.log("Hello!");
+}
+
+var vs let and const Hoisting
+let and const are also hoisted, but they are in a "temporal dead zone" (TDZ) and cannot be accessed before declaration.
+var is initialized with undefined, but let and const are not initialized until execution reaches the declaration.
+Example 4: let and const Hoisting
+javascript
+Copy
+Edit
+console.log(a); // ❌ ReferenceError: Cannot access 'a' before initialization
+let a = 10;
+javascript
+Copy
+Edit
+console.log(b); // ❌ ReferenceError: Cannot access 'b' before initialization
+const b = 20;
+Key Takeaways
+var is hoisted but initialized as undefined if used before assignment.
+Function declarations are fully hoisted, meaning they can be called before they appear in the code.
+let and const are hoisted, but they remain in a temporal dead zone (TDZ) until declared, preventing access before initialization.
+
+
+
+***************************************Classes & Methods & Constructor*****************************************
+1. Defining a Class in TypeScript
+A class is a blueprint for creating objects. It can have properties (variables) and methods (functions).
+
+Example: Basic Class
+typescript
+Copy
+Edit
+class Person {
+    name: string;
+    age: number;
+
+    constructor(name: string, age: number) {
+        this.name = name;
+        this.age = age;
+    }
+
+    greet(): void {
+        console.log(`Hello, my name is ${this.name} and I am ${this.age} years old.`);
+    }
+}
+
+// Creating an instance
+const person1 = new Person("Nitin", 25);
+person1.greet(); // Output: Hello, my name is Nitin and I am 25 years old.
+
+
+
+
+ Constructors in TypeScript
+A constructor is a special method that runs when a new object is created.
+
+Example: Constructor with Default Values
+typescript
+Copy
+Edit
+class Car {
+    brand: string;
+    model: string;
+    year: number;
+
+    constructor(brand: string, model: string, year: number = 2024) {
+        this.brand = brand;
+        this.model = model;
+        this.year = year;
+    }
+
+    displayInfo(): void {
+        console.log(`Car: ${this.brand} ${this.model}, Year: ${this.year}`);
+    }
+}
+
+const car1 = new Car("Toyota", "Corolla");
+const car2 = new Car("Honda", "Civic", 2020);
+
+car1.displayInfo(); // Output: Car: Toyota Corolla, Year: 2024
+car2.displayInfo(); // Output: Car: Honda Civic, Year: 2020
+
+
+ Access Modifiers (public, private, protected)
+TypeScript provides access control to class properties and methods.
+
+Modifier	Scope
+public	Accessible everywhere (default).
+private	Accessible only inside the class.
+protected	Accessible inside the class and subclasses.
+
+by default public
+----------for inheritance we use extend keyword
+
+
+************************************2. Iterators in TypeScript****************
+Iterators allow looping over elements in a collection using for...of.
+
+Example: Iterating Over an Array
+typescript
+Copy
+Edit
+let numbers: number[] = [10, 20, 30, 40];
+
+for (let num of numbers) {
+    console.log(num); // Output: 10, 20, 30, 40
+}
+
+
+**********************************Interfaces in TypeScript*********************
+
+Interfaces define the structure of an object, ensuring it has specific properties.
+
+Example: Defining an Interface
+typescript
+Copy
+Edit
+interface Person {
+    id: number;
+    name: string;
+    email?: string; // Optional property
+}
+
+const user: Person = {
+    id: 1,
+    name: "Alice",
+    email: "alice@example.com",
+};
+
+********************************Declarations and Annotations in TypeScript*****************
+Declarations define variables, functions, and classes.
+Annotations specify the type of a variable, function parameter, or return value.
+Example: Variable Declaration with Type Annotations
+
+let username: string = "Alice";
+let age: number = 25;
+let isAdmin: boolean = false;
+
+
+Example: Function with Type Annotations
+function add(a: number, b: number): number {
+    return a + b;
+}
+console.log(add(5, 10)); // Output: 15
+
+
+Example: Class with Constructor and Type Annotations
+class Employee {
+    id: number;
+    name: string;
+
+    constructor(id: number, name: string) {
+        this.id = id;
+        this.name = name;
+    }
+
+    getDetails(): string {
+        return `ID: ${this.id}, Name: ${this.name}`;
+    }
+}
+
+const emp = new Employee(1, "John");
+console.log(emp.getDetails()); // Output: ID: 1, Name: J
+
+
+****************************MAP method ********************
+The map() method is used to transform each element of an array and return a new array with the modified values.
+ It does not modify the original array.
+ let numbers: number[] = [1, 2, 3, 4, 5];
+
+let doubled = numbers.map(num => num * 2);
+
+console.log(doubled); // Output: [2, 4, 6, 8, 10]
+
+
+
+*******************for each method ***********************
+The forEach() method is used to iterate over an array and execute a function on each element. 
+unlike map(), it does not return a new array—it simply performs an operation on each element.
+
+let numbers: number[] = [1, 2, 3, 4, 5];
+
+numbers.forEach(num => {
+    console.log(num);
+});
+
+
+
+*************any Type in TypeScript **********************
+The any type allows a variable to hold any value, effectively disabling TypeScript's type checking.
+
+Example: Using any Type
+let value: any = "Hello";
+console.log(value); // Output: Hello
+
+value = 10;
+console.log(value); // Output: 10
+
+value = { name: "Alice" };
+console.log(value); // Output: { name: "Alice" }
+
+************************2. Enumeration (enum) in TypeScript*****************
+Enums define a set of named constants.
+
+Example: Numeric Enum
+
+enum Direction {
+    Up = 1,
+    Down,
+    Left,
+    Right
+}
+
+
+**************************** Decorators in TypeScript*************************
+
+Decorators are special functions that modify classes, methods, or properties.
+
+✅ Use Case:
+
+Adding metadata
+Modifying behavior
+Used in Angular
+Example: Class Decorator
+typescript
+Copy
+Edit
+function Logger(target: Function) {
+    console.log(`Class created: ${target.name}`);
+}
+
+@Logger
+class Person {
+    constructor() {
+        console.log("Person instance created.");
+    }
+}
+Output:
+
+vbnet
+Copy
+Edit
+Class created: Person
+Person instance created.
+@Logger runs when the class is defined.
+Example: Method Decorator
+typescript
+Copy
+Edit
+function Log(target: any, propertyKey: string, descriptor: PropertyDescriptor) {
+    console.log(`Method ${propertyKey} is called`);
+}
+
+class User {
+    @Log
+    sayHello() {
+        console.log("Hello, world!");
+    }
+}
+
+const user = new User();
+user.sayHello();
+Output:
+
+pgsql
+Copy
+Edit
+Method sayHello is called
+Hello, world!
+@Log logs when sayHello() is called
+
+
+
+
+*****************************Arrays***********************
+Arrays store multiple values of the same type.
+
+Example: Basic Array
+typescript
+Copy
+Edit
+let numbers: number[] = [1, 2, 3, 4, 5];
+
+console.log(numbers[0]); // Output: 1
+Example: Array of Objects
+typescript
+Copy
+Edit
+interface User {
+    id: number;
+    name: string;
+}
+
+let users: User[] = [
+    { id: 1, name: "Alice" },
+    { id: 2, name: "Bob" }
+];
+
+
+**************************Tuples***********************
+5. Tuples in TypeScript
+Tuples are fixed-length arrays with specific types.
+
+Example: Defining a Tuple
+typescript
+Copy
+Edit
+let person: [string, number] = ["Alice", 25];
+
+console.log(person[0]); // Output: Alice
+console.log(person[1]); 
+
+in tuples we can store hetrogenous element but in arary we can store element of one type 
+
